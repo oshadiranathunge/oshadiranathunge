@@ -3,7 +3,7 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/oshadiranathunge?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/oshadiranathunge/)][linkedin]
+[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=linkedin.com/in/oshadi-ranathunge-23055b174)][linkedin]
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌱 Learning all about **Open Source**
