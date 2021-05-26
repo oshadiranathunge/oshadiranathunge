@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Oshadi Ranathunge | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+##[<img align="left" alt="Oshadi Ranathunge | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+##<br />
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
