@@ -3,17 +3,10 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/oshadiranathunge?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=linkedin.com/in/oshadi-ranathunge-23055b174)][linkedin]
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌱 Learning all about **Open Source**
 - ⚡ &ensp;Fun fact: I love reading & podcasts
-
-### Connect with me:
-
-##[<img align="left" alt="Oshadi Ranathunge | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-##<br />
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
