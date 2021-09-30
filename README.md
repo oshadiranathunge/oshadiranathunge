@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oshadi</h1>
-<h3 align="center">FOSS Enthusiast | Blogger |Full stack</h3>
+<h3 align="center">FOSS Enthusiast | Blogger |Full stack Developer</h3>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/oshadiranathunge?logo=GitHub&style=for-the-badge)][github]
