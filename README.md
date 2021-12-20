@@ -6,7 +6,6 @@
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌱 Learning all about **Open Source**
-- ⚡ &ensp;Fun fact: I love reading & podcasts
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
