@@ -6,7 +6,7 @@
 
             - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
             - 🌱 Learning all about **Open Source**
-            - ⚡ Fun fact: I love cookies🍪
+            - ⚡ Fun fact: I love to read🍪
 
 
 
