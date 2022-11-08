@@ -34,4 +34,5 @@
 
 [linkedin]: https://linkedin.com/in/oshadiranathunge
 [github]: https://github.com/oshadiranathunge
+[![@oshadi's Holopin board](https://holopin.me/oshadi)](https://holopin.io/@oshadi)
 
